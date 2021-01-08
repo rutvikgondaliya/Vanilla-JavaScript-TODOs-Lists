@@ -1,7 +1,7 @@
 # Vanilla-JavaScript-TODOs-Lists
 
 
-<img src="https://github.com/rutvikgondaliya/Vanilla-JavaScript-TODOs-Lists/blob/main/Screenshot%20(1).png" width="1080" height="auto">
+<img src="" width="1080" height="auto">
 
 ### Languages used:
 * HTML

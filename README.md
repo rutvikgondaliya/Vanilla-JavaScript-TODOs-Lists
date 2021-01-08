@@ -1,9 +1,9 @@
 # Vanilla-JavaScript-TODOs-Lists
 
 
-<img src="https://github.com/rutvikgondaliya/Vanilla-JavaScript-TODOs-Lists/blob/main/Screenshot%20(1).png" width="450" height="auto">
+<img src="https://github.com/rutvikgondaliya/Vanilla-JavaScript-TODOs-Lists/blob/main/Screenshot%20(1).png" width="1080" height="auto">
 
-### Technologies used:
+### Languages used:
 * HTML
 * CSS
 * JAVASCRIPT

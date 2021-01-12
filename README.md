@@ -10,4 +10,4 @@
 
 ### Demo To-Do List
 
-- [To-do-list](Vanilla-JavaScript-TODOs-Lists/index.html)
+- [To-do-list](https://github.com/rutvikgondaliya/Vanilla-JavaScript-TODOs-Lists/blob/main/index.html)
